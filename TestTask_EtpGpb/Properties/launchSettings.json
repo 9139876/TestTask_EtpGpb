@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestTask_EtpGpb": {
+      "commandName": "Project",
+      "commandLineArgs": "create save"
+    }
+  }
+}
